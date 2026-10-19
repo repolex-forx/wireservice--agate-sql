@@ -1,0 +1,11 @@
+{
+  "org": "wireservice",
+  "repo": "agate-sql",
+  "versions": [
+    {
+      "commit": "20d796c8c112accfe7be8821e5acdb75fccd0f18",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:37:55.278824+00:00"
+    }
+  ]
+}
