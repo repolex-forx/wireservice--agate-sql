@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/wireservice/agate-sql/commit/20d796c8c112accfe7be8821e5acdb75fccd0f18",
       "git:hexsha": "20d796c8c112accfe7be8821e5acdb75fccd0f18",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T12:37:55.277801+00:00"
     },
     {
       "@id": "https://repolex.ai/r/wireservice/agate-sql/commit/c9aad37978e7d40c67b56f663ef0575d1b4834b0",
