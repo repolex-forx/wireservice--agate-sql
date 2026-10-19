@@ -1,0 +1,7 @@
+[2026-10-19T12:36:44Z] === AST ITERATION 1 START | repo=wireservice/agate-sql sha=20d796c8 ===
+[2026-10-19T12:36:44Z] [iter=1] PHASE START: ast repo=wireservice/agate-sql sha=20d796c8
+[2026-10-19T12:36:44Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T12:36:47Z] [iter=1] AST chunks built count=1 triples=28107
+[2026-10-19T12:36:47Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/20d796c8c112accfe7be8821e5acdb75fccd0f18/.complete
+[2026-10-19T12:36:47Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-10-19T12:36:47Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
